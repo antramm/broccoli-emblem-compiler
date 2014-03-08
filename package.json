@@ -13,7 +13,8 @@
     "Ember.js",
     "Handlebars.js",
     "Emblem.js",
-    "Broccoli"
+    "Broccoli",
+    "broccoli-plugin"
   ],
   "main": "index.js",
   "licenses": [
