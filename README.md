@@ -11,6 +11,6 @@ npm install --save broccoli-emblem-compiler
 ## Usage Example
 
 ```js
-var filterTemplates = require('broccoli-emblem-compile');
+var filterTemplates = require('broccoli-emblem-compiler');
 tree = filterTemplates();
 ```
