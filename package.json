@@ -21,7 +21,7 @@
     "MIT"
   ],
   "dependencies": {
-    "broccoli-filter": "~0.1.6",
+    "broccoli-filter": "~0.1.7",
     "ember-template-compiler": "~1.5.0",
     "emblem": "~0.3.18"
   },
