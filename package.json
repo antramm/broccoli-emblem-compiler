@@ -4,7 +4,7 @@
   },
   "name": "broccoli-emblem-compiler",
   "description": "Emblem.js precompiler for projects that use broccoli",
-  "version": "0.4.0-alpha",
+  "version": "0.4.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/antramm/broccoli-emblem-compiler"
@@ -22,8 +22,8 @@
   ],
   "dependencies": {
     "broccoli-filter": "^0.1.10",
-    "ember-template-compiler": "git+https://github.com/toranb/ember-template-compiler.git",
-    "emblem": "git+https://github.com/machty/emblem.js.git"
+    "ember-template-compiler": "^1.9.0-alpha",
+    "emblem": "^0.4.0"
   },
   "devDependencies": {},
   "optionalDependencies": {}
